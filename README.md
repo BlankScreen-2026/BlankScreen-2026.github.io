@@ -12,3 +12,8 @@
 ## 恭喜你过关了新手训练
 
 你已经知道了基础操作那你要争取获得1000分
+赢了之后请完2.1+1.0（困难版）
+链接https://blankscreen-2026.github.io/index1
+
+# https://blankscreen-2026.github.io/index1
+更改了音乐和变量颜色并且碰到舞台边缘失败
